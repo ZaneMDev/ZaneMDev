@@ -45,3 +45,4 @@ I am a **Full-Stack Web Developer** with a lean toward **Front-End Development**
 ## 📊 GitHub Stats
 
 [![Zane M's GitHub Stats](https://github-stats-extended.vercel.app/api?username=ZaneMDev)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ZaneMDev)](https://github.com/stats-organization/github-stats-extended)
