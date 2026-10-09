@@ -41,3 +41,7 @@ I am a **Full-Stack Web Developer** with a lean toward **Front-End Development**
   <!-- (Git) -->
   <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git"></a>&nbsp;
 </div>
+
+## 📊 GitHub Stats
+
+[![Zane M's GitHub Stats](https://github-stats-extended.vercel.app/api?username=ZaneMDev)](https://github.com/stats-organization/github-stats-extended)
