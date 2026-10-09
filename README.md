@@ -14,22 +14,24 @@ I am a **Full-Stack Web Developer** with a lean toward **Front-End Development**
 ## 💻 Tech Stack
 
 <div>
-  <!-- (HTML5) -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" title="HTML5"></a>&nbsp;
-  <!-- (CSS3) -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" title="CSS3"></a>&nbsp;
+  <!-- (HTML) -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" title="HTML"></a>&nbsp;
+  <!-- (CSS) -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" title="CSS"></a>&nbsp;
   <!-- (JavaScript) -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript"></a>&nbsp;
   <!-- (TypeScript) -->
   <a href="https://typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript"></a>&nbsp;
   <!-- (React) -->
   <a href="https://react.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" title="React"></a>&nbsp;
+  <!-- (Tailwind CSS) -->
+  <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS"></a>&nbsp;
   <!-- (Bootstrap) -->
   <a href="https://getbootstrap.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" title="Bootstrap"></a>&nbsp;
   <!-- (Node.js) -->
   <a href="https://nodejs.org"><img src="https://cdn.simpleicons.org/nodedotjs" width="48" height="48" alt="Node.js" title="Node.js"></a>&nbsp;
-  <!-- (Express.js) -->
-  <a href="https://expressjs.com"><img src="https://cdn.simpleicons.org/express" width="48" height="48" alt="Express.js" title="Express.js"></a>&nbsp;
+  <!-- (Express) -->
+  <a href="https://expressjs.com"><img src="https://cdn.simpleicons.org/express" width="48" height="48" alt="Express" title="Express"></a>&nbsp;
   <!-- (Mongoose) -->
   <a href="https://mongoosejs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="48" height="48" alt="Mongoose" title="Mongoose"></a>&nbsp;
   <!-- (MongoDB) -->
