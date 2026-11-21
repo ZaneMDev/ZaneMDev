@@ -15,7 +15,7 @@
 <br>
 
 <ul>
-  <li>🌱 Currently learning: <strong>Prisma ORM</strong> and deepening design skills in <strong>Figma</strong>.</li>
+  <li>🛠️ Currently building: <strong><a href="https://github.com/ZaneMDev/deepdive">DeepDive</a></strong> - A Reddit-like discussion platform.</li>
   <li>💻 Development preference: Open to both full-stack and dedicated front-end roles.</li>
   <li>📚 Learning style: Primarily a visual learner who learns best from video as well as books.</li>
   <li>
@@ -84,6 +84,9 @@
       <td align="center">
         <a href="https://mongoosejs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="40" height="40" alt="Mongoose"></a>
       </td>
+	  <td align="center">
+        <a href="https://prisma.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma"></a>
+      </td>
       <td align="center">
         <a href="https://mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"></a>
       </td>
@@ -95,6 +98,7 @@
       <td align="center">Node.js</td>
       <td align="center">Express</td>
       <td align="center">Mongoose</td>
+      <td align="center">Prisma</td>
       <td align="center">MongoDB</td>
       <td align="center">MySQL</td>
     </tr>
@@ -107,7 +111,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"></a>
+        <a href="https://figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"></a>
       </td>
       <td align="center">
         <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"></a>
