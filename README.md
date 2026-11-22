@@ -15,11 +15,11 @@
 <br>
 
 <ul>
-  <li>🛠️ Currently building: <strong><a href="https://github.com/ZaneMDev/deepdive">DeepDive</a></strong> - A Reddit-like discussion platform.</li>
-  <li>💻 Development preference: Open to both full-stack and dedicated front-end roles.</li>
+  <li>🏗️ Currently building: <strong><a href="https://github.com/ZaneMDev/deepdive">DeepDive</a></strong> - A Reddit-like discussion platform.</li>
+  <li>💻 Job preference: Open to both full-stack and dedicated front-end roles.</li>
   <li>📚 Learning style: Primarily a visual learner who learns best from video as well as books.</li>
   <li>
-  	⚡ Fun facts:
+  	💡 Fun facts:
 	<ul>
 		<li>I am a geography nerd and can point to almost every country on a map as well as identify their flag.</li>
 		<li>I love even numbers and try to use multiples of 4, 8, and 16 for everything I do whenever I can.</li>
@@ -79,13 +79,28 @@
         <a href="https://nodejs.org"><img src="https://cdn.simpleicons.org/nodedotjs" width="40" height="40" alt="Node.js"></a>
       </td>
       <td align="center">
-        <a href="https://expressjs.com"><img src="https://cdn.simpleicons.org/express" width="40" height="40" alt="Express"></a>
+        <a href="https://expressjs.com">
+		  <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff">
+            <img src="https://cdn.simpleicons.org/express/202020" width="40" height="40" alt="Express">
+          </picture>
+        </a>
       </td>
       <td align="center">
-        <a href="https://mongoosejs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="40" height="40" alt="Mongoose"></a>
+		<a href="https://mongoosejs.com">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mongoose/cc4444">
+            <img src="https://cdn.simpleicons.org/mongoose" width="40" height="40" alt="Mongoose">
+          </picture>
+        </a>
       </td>
 	  <td align="center">
-        <a href="https://prisma.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma"></a>
+		<a href="https://prisma.io">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/E2E8F0">
+            <img src="https://cdn.simpleicons.org/prisma" width="40" height="40" alt="Prisma">
+          </picture>
+        </a>
       </td>
       <td align="center">
         <a href="https://mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"></a>
@@ -117,7 +132,12 @@
         <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"></a>
       </td>
       <td align="center">
-        <a href="https://github.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"></a>
+		<a href="https://github.com">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
+            <img src="https://cdn.simpleicons.org/github/202020" width="40" height="40" alt="GitHub">
+          </picture>
+        </a>
       </td>
     </tr>
     <tr>
@@ -132,12 +152,25 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<div>
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=ZaneMDev" alt="GitHub Stats">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ZaneMDev&layout=compact" alt="Top Langs">
-  </a>
-</div>
+<table>
+  <tbody>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/stats-organization/github-stats-extended">
+          <img
+            src="https://github-stats-extended.vercel.app/api?username=ZaneMDev&theme_light=light_github&theme_dark=dark_github"
+            alt="GitHub Stats"
+          />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/stats-organization/github-stats-extended">
+          <img
+            src="https://github-stats-extended.vercel.app/api/top-langs/?username=ZaneMDev&layout=compact&theme_light=light_github&theme_dark=dark_github"
+            alt="Top Languages"
+          />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
